@@ -1,0 +1,9 @@
+
+Java Command Prompt 
+
+1)Need to run main class file name which contains demo.
+2)After running the main select no of players who are going to play.
+3)Dealer distributes 4 cards to each player.
+4)Player 1 has to display one card in the first round and player 2 will do the same.
+Whose card contains higher value will win the round.
+5)In all 4 rounds the player wins max no of rounds will be declared as winner.
